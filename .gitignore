@@ -1,3 +1,9 @@
+# не интересны примеры
+*.sql
+*.h
+*.tpr
+~$*.xlsm
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
